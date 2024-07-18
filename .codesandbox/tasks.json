@@ -2,8 +2,8 @@
   // These tasks will run in order when initializing your CodeSandbox project.
   "setupTasks": [
     {
-      "command": "make install",
-      "name": "m"
+      "name": "m",
+      "command": "make install"
     }
   ],
 
